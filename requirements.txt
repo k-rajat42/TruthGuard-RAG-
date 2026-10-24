@@ -1,0 +1,11 @@
+# Python 3.12 | unpinned (latest compatible) for the MVP
+pydantic>=2
+python-dotenv
+qdrant-client[fastembed]
+langgraph
+langchain-core
+langchain-google-genai
+langchain-ollama
+streamlit
+pandas
+pytest

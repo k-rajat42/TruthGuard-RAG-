@@ -1,0 +1,75 @@
+[
+  {
+    "doc_id": "DOC-HR-01",
+    "doc_type": "policy",
+    "effective_date": "2023-01-15",
+    "version": "1.0",
+    "topic": "remote_stipend",
+    "text": "Full-time remote employees are eligible for a monthly home office stipend of $250 to cover internet and utilities expenses.",
+    "region": "global"
+  },
+  {
+    "doc_id": "DOC-HR-02",
+    "doc_type": "amendment",
+    "effective_date": "2024-06-01",
+    "version": "2.0",
+    "supersedes": ["DOC-HR-01"],
+    "topic": "remote_stipend",
+    "text": "Effective June 1 2024, the monthly home office stipend for all remote employees is increased to $400. This replaces all prior remote stipend policies.",
+    "region": "global"
+  },
+  {
+    "doc_id": "DOC-HR-FAQ",
+    "doc_type": "faq",
+    "effective_date": "2024-05-01",
+    "version": "1.0",
+    "topic": "remote_stipend",
+    "text": "Frequently Asked Questions: Remote employees receive a $300 monthly reimbursement for home office internet.",
+    "region": "global"
+  },
+  {
+    "doc_id": "DOC-SEC-POL",
+    "doc_type": "policy",
+    "effective_date": "2024-01-01",
+    "version": "1.0",
+    "topic": "device_encryption",
+    "text": "Company Security Policy: All laptops used for company work must have full-disk encryption enabled (FileVault on macOS, BitLocker on Windows).",
+    "category": "security"
+  },
+  {
+    "doc_id": "DOC-SEC-MEMO",
+    "doc_type": "memo",
+    "effective_date": "2024-01-01",
+    "version": "1.0",
+    "topic": "device_encryption",
+    "text": "IT Department Memo: Full-disk encryption is optional for laptops if biometric login (Touch ID / Windows Hello) is enabled.",
+    "category": "security"
+  },
+  {
+    "doc_id": "DOC-TRAVEL-A",
+    "doc_type": "memo",
+    "effective_date": "2024-03-01",
+    "version": "1.0",
+    "topic": "travel_per_diem",
+    "text": "Travel Operations Memo: The standard domestic meal per diem reimbursement rate is $75 per day.",
+    "department": "finance_ops"
+  },
+  {
+    "doc_id": "DOC-TRAVEL-B",
+    "doc_type": "memo",
+    "effective_date": "2024-03-01",
+    "version": "1.0",
+    "topic": "travel_per_diem",
+    "text": "Accounting Memo: The daily domestic meal reimbursement cap for business travel is set to $90 per day.",
+    "department": "accounting"
+  },
+  {
+    "doc_id": "DOC-EXP-01",
+    "doc_type": "policy",
+    "effective_date": "2024-02-01",
+    "version": "1.0",
+    "topic": "expense_receipts",
+    "text": "Expense Reimbursement Policy: Itemized receipts are strictly required for any business expense exceeding $50.",
+    "category": "finance"
+  }
+]

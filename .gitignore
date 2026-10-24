@@ -1,0 +1,50 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Environment variables & secrets (keep .env.example)
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# Local vector DB & data persistence
+qdrant_data/
+*.sqlite
+*.db
+
+# Streamlit credentials & cache (keep config.toml)
+.streamlit/credentials.toml
+.streamlit/secrets.toml
+
+# IDEs & OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
